@@ -1,2 +1,2 @@
 # Akil portfolio 
-ECE Portfolio | Embedded Systems • IoT • VLSI • Cybersecurity
+ECE Portfolio | Embedded Systems • IoT • ECE Engineer
